@@ -1,0 +1,10 @@
+INFO    2021-10-22 11:56:23,948 [http-nio-8080-exec-7] minhtq.controller.LoginServlet  - Login success
+INFO    2021-10-22 11:57:00,412 [http-nio-8080-exec-14] minhtq.controller.AddToCartServlet  - minh1234@gmail.com Add to cart
+INFO    2021-10-22 11:57:03,270 [http-nio-8080-exec-8] minhtq.controller.AddToCartServlet  - minh1234@gmail.com Add to cart
+INFO    2021-10-22 11:57:03,836 [http-nio-8080-exec-11] minhtq.controller.AddToCartServlet  - minh1234@gmail.com Add to cart
+INFO    2021-10-22 11:57:04,531 [http-nio-8080-exec-16] minhtq.controller.AddToCartServlet  - minh1234@gmail.com Add to cart
+INFO    2021-10-22 11:57:19,942 [http-nio-8080-exec-13] minhtq.controller.DeleteCartServlet  - User Detele From cart
+INFO    2021-10-22 11:57:28,544 [http-nio-8080-exec-19] minhtq.controller.UpdateCartServlet  - User Update cart
+ERROR   2021-10-22 11:57:34,360 [http-nio-8080-exec-14] minhtq.controller.BookingServlet  - com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'cartID'.
+ERROR   2021-10-22 11:57:50,919 [http-nio-8080-exec-15] minhtq.controller.BookingServlet  - com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'cartID'.
+INFO    2021-10-22 12:02:29,610 [http-nio-8080-exec-24] minhtq.controller.LoginServlet  - Login success
